@@ -1,0 +1,123 @@
+body {
+
+	background-image: ;
+	background-color: #fcf092;
+	height: 1000px;
+	width: 1000px;
+	background-position: center;
+	background-size: cover;
+	margin:auto;
+
+	}
+header {
+
+}
+head{
+	margin-top: 10px;
+}
+
+main {
+	background-color: ;
+}
+
+footer{
+	background-color:#fcf092;
+}
+
+footer p {
+background-color: }
+
+img {
+	width: auto;
+	height: 500px;
+
+}
+h1 {
+ }
+makeup.h2 {
+	margin-bottom: 300px;
+}
+.mutext{
+	text-align: center;
+}
+.foto{
+	display: block;
+  margin-left: 150px;
+  margin-right: auto;
+  width: 40%;
+}
+ .home-bg {
+	 background: url("home2.jpg");
+	 background-position: center;
+ 	background-size: cover;
+ }
+ .bg-text {
+	 background-color: rgb(0,0,0);
+	   background-color: rgba(0,0,0, 0.4);
+	   color: white;
+	   font-weight: bold;
+	   position: absolute;
+	   top: 50%;
+	   left: 50%;
+	   transform: translate(-50%, -50%);
+	   z-index: 2;
+	   width: 80%;
+	   padding: 20px;
+	   text-align: center;
+ }
+
+
+.two-column{
+	float:left;
+}
+.left{
+	width:100px;
+}
+.right{
+	width: 400px;
+}
+
+.scnd-column{
+	width:495px;
+	float: left;
+	display: inline-block;
+}
+.thrd-column{
+	float: left;
+  width: 33.33%;
+}
+#container{
+	width:1000px;
+	margin-left: auto;
+margin-right: auto;
+margin-bottom: 0;
+margin-top: 0;
+}
+#mu{
+	background-color: #fcf092;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
